@@ -1,6 +1,6 @@
 {
-  "name": "@ckeditor/ckeditor5-build-balloon",
-  "version": "19.0.0",
+  "name": "@ckeditor/ckeditor5-build-balloon-with-mention",
+  "version": "1.0.0",
   "description": "The balloon editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "wysiwyg",
@@ -42,6 +42,7 @@
     "@ckeditor/ckeditor5-link": "^19.0.0",
     "@ckeditor/ckeditor5-list": "^19.0.0",
     "@ckeditor/ckeditor5-media-embed": "^19.0.0",
+    "@ckeditor/ckeditor5-mention": "^19.0.0",
     "@ckeditor/ckeditor5-paragraph": "^19.0.0",
     "@ckeditor/ckeditor5-paste-from-office": "^19.0.0",
     "@ckeditor/ckeditor5-table": "^19.0.0",
@@ -96,6 +97,5 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-mention": "^19.0.0"
   }
 }
